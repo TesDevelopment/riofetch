@@ -5,52 +5,6 @@ use components::{config::{self, RioProfile}, images};
 
 mod components;
 
-/*
-riofetch
-Programming Language: ... (Check for jar file / Executable / Python File) ✅
-Identified Packages: ... (Check deploy for coreos / pathplanners) ✅
- - Auto 2024 Outside Stage
- - Auto Under Stage 2024 FRC
- - BackAuto
- - Mat Test
- (5 more autos)
-Rio Type: 1 vs 2
-Version Hash: ... (Hash published files)
-
-Rio 1 - 256000 kb
-Rio 2 - 512000 kb
-
-!! DELETE EXAMPLE.TXT !!
-
-
-Formatting Options:
-${} to signify special format
-
-${f[?]} - Format
- B = Bold
- I = Italic
- R = Reset
-
-${c[?]} - Color
- W = White
- B = Black
- R = Red
- B = Blue
- G = Green
- ? = Random
-
-${r} - Repeat to Match previous line
-
-${i[?]<#>} - Substitute Information
- L = Programming Language
- T = Rio Type
- P = Pathplanner Autos
- H = Version Hash
- M = Memory Usage
- <#> - Max Pathplanner Autos
-
-*/
-
 fn align_text_to_art(art: String, data: Vec<String>) -> String {
     let art_lined: Vec<&str> = art.split("\n").collect();
     let mut output_text: String = String::from("");

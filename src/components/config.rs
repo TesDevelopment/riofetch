@@ -11,35 +11,6 @@ pub struct Config {
     pub format: Vec<String>
 }
 
-/*
-${} to signify special format
-
-${f[?]} - Format
- B = Bold
- I = Italic
-
-${c[?]} - Color
- W = White
- B = Black
- R = Red
- B = Blue
- G = Green
- ? = Random
-
-${r} - Repeat to Match previous line
-
-${i[?]<#>} - Substitute Information
- L = Programming Language
- T = Rio Type
- P = Pathplanner Autos
- H = Version Hash
- M = Memory Usage
- N = Device name
- <#> - Max Pathplanner Autos
-
-${b[?]} - Only continue if the requested bool is true (super niche)
- P = Path planner found
-*/
 
 pub struct RioProfile {
     pub programming_language: String,
