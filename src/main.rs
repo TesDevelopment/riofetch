@@ -37,8 +37,8 @@ async fn main() -> Result<(), async_ssh2_tokio::Error> {
                 programming_language: "Java".to_string(),
                 device_name: "2914".to_string(),
                 rio_type: "2".to_string(),
-                path_planner: true,
-                path_planner_autos: vec!["Under Stage Auto".to_string(), "Far Right Auto".to_string(), "Far Left Auto".to_string(), "Shoot".to_string()],
+                path_planner: false,
+                path_planner_autos: vec!["Under Stage Auto".to_string(), "Shoot".to_string()],
                 version_hash: "78207174ee60eab71a46e4451624f97f".to_string(),
                 memory_usage: 856,
                 total_memory: 1000
