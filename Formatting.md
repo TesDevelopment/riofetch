@@ -9,6 +9,13 @@ Your riofetch config can be found at `~/riofetch.json` across all operating syst
 ### What do all these symbols mean?
 While it may look daunting initially, riofetch formatting is made with ease of use in mind, here a guide on all the formatting rules.
 
+## Images
+There are currently two available images
+#### FIRST
+<img src="./assets/second_ex.png" alt="riofetch" align="center" height="240px" width="350px">
+
+### NI
+<img src="./assets/first_ex.png" alt="riofetch" align="center" height="240px" width="350px">
 
 ## Formats
 
