@@ -1,6 +1,8 @@
 [package]
 name = "riofetch"
-version = "0.1.0"
+description = "🖼️ A command-line roborio information tool written to be blazingly fast 🚀"
+license = "MIT"
+version = "1.0.0"
 edition = "2021"
 
 [dependencies]
