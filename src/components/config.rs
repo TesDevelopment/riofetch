@@ -85,11 +85,6 @@ pub fn apply_formats(cfg: &Config, profile: RioProfile) -> Vec<String> {
                             "\x1b[4m"
                         },
 
-                        // Blinking
-                        "L" => {
-                            "\x1b[5m"
-                        },
-
                         // Strikethrough / Crossout
                         "S" => {
                             "\x1b[9m"
