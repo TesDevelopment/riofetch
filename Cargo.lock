@@ -1251,7 +1251,7 @@ dependencies = [
 
 [[package]]
 name = "riofetch"
-version = "1.0.0"
+version = "1.1.0"
 dependencies = [
  "async-ssh2-tokio",
  "homedir",

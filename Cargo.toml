@@ -2,7 +2,7 @@
 name = "riofetch"
 description = "🖼️ A command-line roborio information tool written to be blazingly fast 🚀"
 license = "MIT"
-version = "1.0.0"
+version = "1.1.0"
 edition = "2021"
 
 [dependencies]
