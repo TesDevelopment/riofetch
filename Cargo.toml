@@ -1,8 +1,14 @@
 [package]
-name = "riodump"
+name = "riofetch"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
 async-ssh2-tokio = "0.8.12"
+homedir = "0.3.4"
+rand = "0.8.5"
+regex = "1.11.1"
+serde = "1.0.214"
+serde_json = "1.0.132"
 tokio = "1.41.1"
+toml = "0.8.19"
