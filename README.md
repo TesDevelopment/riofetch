@@ -3,7 +3,7 @@
 
 ***
 
-<img src="./first_ex.png" alt="riofetch" align="right" height="240px" width="350px">
+<img src="./assets/first_ex.png" alt="riofetch" align="right" height="240px" width="350px">
 
 RioFetch is a comand line interface used to collect information about the roborio. Riofetch displays a dump of rio information in a visually pleasing way.
 
@@ -11,7 +11,7 @@ The overall purpose of RioFetch is to allow its users to share their teams setup
 
 Ready to get started? Customize your riofetch [here](https://github.com/TesDevelopment/riofetch/blob/main/Formating.md).
 
-<img src="./second_ex.png" alt="riofetch" align="right" height="240px" width="350px">
+<img src="./assets/second_ex.png" alt="riofetch" align="right" height="240px" width="350px">
 
 **RioFetch is a work in progress and is still being completed, contributions ares welcome**
 
